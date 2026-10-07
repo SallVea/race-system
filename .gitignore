@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Data & Configs
+velox_data.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
